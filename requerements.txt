@@ -1,0 +1,4 @@
+requests
+BeautifulSoup
+telebot
+dotenv
